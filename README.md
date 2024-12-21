@@ -35,7 +35,7 @@ Proje üzerinde çalışmaya başlamadan önce aşağıdaki yazılımların kuru
    - Bu komut, proje için gerekli olan tüm bağımlılıkları yükleyecektir.
 
 
-4. **Veritabanı ve API Ayarları:** Veritabanı bağlantılarını ve API ayarlarını yapılandırmayı unutmayın.
+
 
 ### Kullanım
    - Projeyi başlatın: PHP sunucusunu başlatın ve tarayıcınızda projeyi görüntüleyin.
