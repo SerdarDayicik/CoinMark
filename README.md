@@ -29,3 +29,20 @@ Proje üzerinde çalışmaya başlamadan önce aşağıdaki yazılımların kuru
    $client_id = ''; // Google Developer Console'dan aldığınız client ID
    $client_secret = ''; // Google Developer Console'dan aldığınız client secret
    $redirect_uri = ''; // Google Callback URI
+
+3. **TailwindCSS Kurulumu:** TailwindCSS'i kurmak için aşağıdaki adımları izleyin:
+   - npm install
+   - Bu komut, proje için gerekli olan tüm bağımlılıkları yükleyecektir.
+
+
+4. **Veritabanı ve API Ayarları:** Veritabanı bağlantılarını ve API ayarlarını yapılandırmayı unutmayın.
+
+### Kullanım
+   - Projeyi başlatın: PHP sunucusunu başlatın ve tarayıcınızda projeyi görüntüleyin.
+   - Giriş Yapın: Google OAuth 2.0 üzerinden giriş yaparak kullanıcı hesabınızı oluşturun.
+   - Favori Coin'leri Takip Edin: API'den çekilen 50 coin arasından favorilerinizi seçin ve takip edin.
+
+
+
+   
+
